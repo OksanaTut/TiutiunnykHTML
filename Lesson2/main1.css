@@ -1,0 +1,33 @@
+
+img {
+    display: block;
+    align-content: center;
+}
+
+    .i {
+        font-style: italic;
+    }
+    .big {
+        display: flex;
+        align-content: space-around;
+        width: 50%;
+        margin-left: 25%;
+        margin-top: 40px;
+        margin-bottom: 40px;
+    }
+
+    .small{
+        width: 30%;
+        margin-left: 5px;
+        display: flex;
+        flex-direction: column;
+        margin: 5px;
+        align-content: center;
+    }
+
+
+    .all{
+        display: flex;
+        flex-direction: row;
+
+    }
