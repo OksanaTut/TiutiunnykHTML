@@ -1,14 +1,19 @@
-
+p{
+    text-align: justify;
+    box-sizing: border-box;
+}
 img {
+    height: 400px;
     display: block;
     align-content: center;
+    border: 2px solid #d2dcdb;
 }
-
     .i {
         font-style: italic;
     }
     .big {
         display: flex;
+        background-color: beige;
         align-content: space-around;
         width: 50%;
         margin-left: 25%;
@@ -17,17 +22,28 @@ img {
     }
 
     .small{
+        background-color: #d2e1f1;
         width: 30%;
-        margin-left: 5px;
         display: flex;
         flex-direction: column;
-        margin: 5px;
-        align-content: center;
+        margin: 20px;
+        align-items: center;
     }
 
 
     .all{
         display: flex;
         flex-direction: row;
+        flex-wrap: wrap;
 
+    }
+
+    a:visited  {
+        color: #605959;
+    }
+
+    .end{
+        background-color: #f5f2da;
+        text-align: center;
+        margin: 40px    ;
     }
