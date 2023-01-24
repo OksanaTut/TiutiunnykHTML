@@ -1,0 +1,79 @@
+body{
+    background: rgb(5, 5, 101);
+    font-size: 40px;
+    color: white;
+}
+
+.blue{
+    position: relative;
+    margin: 0 30px;
+    padding: 0;
+    width: 200px;
+    height: 200px;
+    background: blue;
+    border-radius: 10px;
+    border: 1px solid blue;
+    top: -100px;
+
+}
+
+.down{
+    position: relative;
+    top: 0;
+    width: 100%;
+    height: 100px;
+    background: gray;
+}
+
+.start{
+    position: fixed;
+    margin: 0; padding: 0;
+    top: 0;
+    width: 100%;
+    height: 100px;
+    background: gray;
+}
+
+.logo   {
+    background: rgb(5, 5, 101);
+    width: 100px;
+    height: 50px;
+    border-radius: 5px;
+    position: relative;
+    left: 100px;
+    top: 25px;}
+
+.icon1   {
+    position: absolute;
+    color: rgb(5, 5, 101);
+    top: 30px;
+    left: 75%;
+    font-size: 50px;
+}
+
+.icon2   {
+    position: absolute;
+    top: 30px;
+    color: rgb(5, 5, 101);
+    left: 85%;
+    font-size: 50px;
+}
+
+.end    {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    height: 150px;
+    background: gray;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+
+
+
+
+
+
+
