@@ -1,7 +1,11 @@
 @media screen and (min-width:0) and (max-width:768px){
-    .bb,.cc{
-        display: block;
+    .body{
         width: 100%;
+        flex-wrap: wrap;
 
     }
+    .bb,.cc{
+        width: 100%;
+    }
+
 }
