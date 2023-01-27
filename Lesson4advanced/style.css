@@ -1,0 +1,131 @@
+.fix    {
+    width: 100%;  height: 70px;
+    margin: 0; padding: 0;
+    position: relative;
+}
+
+.boxhead    {
+    width: 100%;  height: 70px;
+    position: fixed;
+    display: flex;
+    background: rgba(214, 245, 239, 0.61);
+    box-sizing: border-box;
+    justify-content: space-between;
+}
+.a1, .a2 {
+    width: 25%;
+    height: 60px;
+    margin: 5px;
+    border-radius: 5px;
+    background: rgba(128, 128, 128, 0.49);
+}
+
+.boxbody{
+    width: 100%;
+    display: flex;
+    background: #d6f5ef;
+    flex-direction: row;
+}
+.bb{
+    box-sizing: border-box;
+    width: 20%;
+    display: flex;
+    flex-direction: column;
+}
+.bb li {
+    box-sizing: border-box;
+    height: 50px;
+    margin: 5px;
+    border-radius: 5px;
+    background: gray;
+}
+.cdefg {
+    box-sizing: border-box;
+    width: 80%;
+    display: flex;
+    flex-direction: column;
+}
+.cc{ box-sizing: border-box;
+    height: 200px;
+    margin: 5px;
+    border-radius: 5px;
+    background: gray;
+}
+.dd{ box-sizing: border-box;
+    display: flex;
+    flex-wrap: nowrap;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+.dd1, .dd2, .dd3, .dd4 {
+    box-sizing: border-box;
+    width: 23%;
+    height: 100px;
+    margin: 5px;
+    border-radius: 5px;
+
+    background: gray;
+}
+.ef{
+    box-sizing: border-box;
+    display: flex;
+    margin: 0; padding: 0;
+}
+.ee{
+    box-sizing: border-box;
+    width: 80%;
+    margin: 0; padding: 0;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.ee1{
+    box-sizing: border-box;
+    width: 45%;
+    height: 50px;
+    margin: 5px;
+    border-radius: 5px;
+    background: gray;
+}
+.ff{
+    box-sizing: border-box;
+    width: 20%;
+    margin: 0; padding: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.ff1    {
+    box-sizing: border-box;
+    padding: 0;
+    width: 90%;
+    height: 100px;
+    margin: 5px;
+    border-radius: 5px;
+    background: gray;
+}
+.gg{ box-sizing: border-box;
+    display: flex;
+    height: 150px;
+    /*flex-wrap: nowrap;*/
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.gg1 {
+    box-sizing: border-box;
+    width: 90%;
+    height: 50px;
+    margin: 5px;
+    border-radius: 5px;
+    background: gray;
+}
+.gg2 {
+    box-sizing: border-box;
+    width: 50%;
+    height: 50px;
+    margin: 5px;
+    border-radius: 5px;
+    background: gray;
+}

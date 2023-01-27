@@ -5,8 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="88b88fff-217c-4262-983d-baece78133ac" name="Changes" comment="Lesson4 p2">
+      <change afterPath="$PROJECT_DIR$/Lesson4advanced/advanced.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson4advanced/media.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson4advanced/norm.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson4advanced/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson4/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson4/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Lesson4/style2.css" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson4/style2.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,26 +42,30 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/ksusha/IdeaProjects/TiutiunnykHTML/Lesson1/Images&quot;,
-    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.folding&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/ksusha/IdeaProjects/TiutiunnykHTML/Lesson4/Lesson4advanced",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "editor.preferences.folding",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Lesson4/Lesson4advanced" />
       <recent name="$PROJECT_DIR$/Lesson1/Images" />
       <recent name="$PROJECT_DIR$/imeges" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -80,7 +87,9 @@
       <workItem from="1674763343282" duration="5677000" />
       <workItem from="1674779006266" duration="47000" />
       <workItem from="1674792443434" duration="121000" />
-      <workItem from="1674825179439" duration="645000" />
+      <workItem from="1674825179439" duration="876000" />
+      <workItem from="1674826940822" duration="271000" />
+      <workItem from="1674846823816" duration="9488000" />
     </task>
     <task id="LOCAL-00001" summary="Lesson 2">
       <created>1674251289728</created>
@@ -138,7 +147,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674776399376</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Lesson4 p2">
+      <created>1674826827295</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1674826827295</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
