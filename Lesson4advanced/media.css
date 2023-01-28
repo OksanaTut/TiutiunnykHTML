@@ -6,6 +6,7 @@
     .bb {
         width: 100%;
     }
+
     .cdefg {
         width: 100%;
     }
@@ -27,10 +28,14 @@
         width: 100%;
         flex-direction: column;
         flex-wrap: wrap;
-        height: 400px;
+        height: 180px;
+        justify-content: center;
     }
     .ff1,.ff4    {
-        width: 49%;
+        width: 48%;
+    }
+    .ff4    {
+        align-self: stretch;
     }
 }
 
@@ -57,16 +62,16 @@
     }
     .ee{
         width: 100%;
-        justify-content: center;
+        align-items: center;
         flex-direction: column;
     }
     .ee1    {
-        width: 99%;
+        width: 98%;
     }
     .ff{
         width: 100%;
     }
-    .ff1    {
-        width: 99%;
+    .ff1,.ff4    {
+        width: 98%;
     }
 }

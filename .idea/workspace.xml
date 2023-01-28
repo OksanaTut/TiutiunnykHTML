@@ -4,13 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="88b88fff-217c-4262-983d-baece78133ac" name="Changes" comment="Lesson4 p2">
-      <change afterPath="$PROJECT_DIR$/Lesson4advanced/advanced.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson4advanced/media.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson4advanced/norm.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson4advanced/style.css" afterDir="false" />
+    <list default="true" id="88b88fff-217c-4262-983d-baece78133ac" name="Changes" comment="Lesson4 adv">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson4/style2.css" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson4/style2.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson4advanced/advanced.html" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson4advanced/advanced.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson4advanced/media.css" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson4advanced/media.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson4advanced/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson4advanced/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,22 +40,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/Users/ksusha/IdeaProjects/TiutiunnykHTML/Lesson4/Lesson4advanced",
-    "list.type.of.created.stylesheet": "CSS",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "settings.editor.selected.configurable": "editor.preferences.folding",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/ksusha/IdeaProjects/TiutiunnykHTML/Lesson4/Lesson4advanced&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.folding&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/Lesson4/Lesson4advanced" />
@@ -89,7 +87,8 @@
       <workItem from="1674792443434" duration="121000" />
       <workItem from="1674825179439" duration="876000" />
       <workItem from="1674826940822" duration="271000" />
-      <workItem from="1674846823816" duration="9488000" />
+      <workItem from="1674846823816" duration="9649000" />
+      <workItem from="1674865971765" duration="3021000" />
     </task>
     <task id="LOCAL-00001" summary="Lesson 2">
       <created>1674251289728</created>
@@ -154,7 +153,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674826827295</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Lesson4 adv">
+      <created>1674858545518</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1674858545518</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -178,6 +184,7 @@
     <MESSAGE value="Lesson3 completed" />
     <MESSAGE value="Lesson4 p1" />
     <MESSAGE value="Lesson4 p2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lesson4 p2" />
+    <MESSAGE value="Lesson4 adv" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lesson4 adv" />
   </component>
 </project>
